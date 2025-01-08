@@ -1,7 +1,4 @@
-# ghentianserver
-Ghentian Server for Minecraft Java &amp; Bedrock
-
-# Welcome on Ghentian Server
+# Welcome on the Ghentian Server repo
 
 ## A creative server for Java & Bedrock
 
