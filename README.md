@@ -26,6 +26,4 @@ This guide will bundle all information about Ghentian Server's features, command
 
 Ghentian Server is compatible with both Java and Bedrock editions, although Bedrock will lack some features due to compatibility issues through bridging Bedrock to a Java server.
 
-Accessing the server is easy and the server address and/or port and you're good to go.
-
-The guide is being maintained through GitBook, a powerful git tool to design beautiful documentation.
+**Accessing the server** is easy and the server address and/or port and you're good to go.

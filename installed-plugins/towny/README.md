@@ -1,9 +1,10 @@
 ---
 icon: tree-city
-description: TBA
 ---
 
 # Towny
+
+TBA
 
 #### FAQ
 
@@ -12,3 +13,7 @@ description: TBA
 
 
 {% embed url="https://youtu.be/A8DD8050SUI?si=iOammuRaf_CgcIy8" %}
+
+#### Support the developer
+
+[GitHub](https://github.com/sponsors/LlmDl)
