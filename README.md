@@ -1,18 +1,30 @@
-# Welcome on the Ghentian Server repo
+---
+description: for Minecraft Java & Bedrock Editions
+cover: .gitbook/assets/Ghentian Server Guide - Banner 4K.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
 
-## A creative server for Java & Bedrock
+# 🏠 Ghentian Server Guide
 
-Ghentian Server for Minecraft launched in November 2024, offering a 24/7 creative server for both Java & Bedrock editions.
+### Welcome to the official Ghentian Server Guide!
 
-Ghentian Server’s main purpose is to revisit the nostalgia when Minecraft first launched, bringing together friends and fellow Minecrafters while creating and maintaining a fun Minecraft server for all!
+This guide will bundle all information about Ghentian Server's features, commands and more!
 
-The standard game for Ghentian Server has been set to Creative, enabling a cozy building experience. Special game events are held where the server can be set to SMP or even PvP to offer extra layers to the server experience.
+Ghentian Server is compatible with both Java and Bedrock editions, although Bedrock will lack some features due to compatibility issues through bridging Bedrock to a Java server.
 
-## Ghentian Server on Discord
-The community comes together in the Ghentian Server Discord Server, feel free to join our Discord and get to know other Minecrafters.
+Accessing the server is easy and the server address and/or port and you're good to g
 
-Enter our regular #giveaways to win Steam giftcards and more!
-
-**Join Ghentian Server today!**
-
-*- PvP events won’t be backupped and restored due to allowed griefing during those events.*
