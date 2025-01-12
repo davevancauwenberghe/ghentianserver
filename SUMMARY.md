@@ -11,7 +11,6 @@
 
 * [Rulebook](getting-started/rulebook.md)
 * [Paper](getting-started/paper.md)
-* [Voting](getting-started/voting.md)
 * [Basic hotkeys](getting-started/basic-hotkeys.md)
 * [Basic commands](getting-started/basic-commands.md)
 
@@ -28,3 +27,7 @@
 * [Vane](installed-plugins/vane/README.md)
   * [Portals](installed-plugins/vane/portals.md)
 * [Worlds](installed-plugins/worlds.md)
+
+***
+
+* [Voting](voting.md)
