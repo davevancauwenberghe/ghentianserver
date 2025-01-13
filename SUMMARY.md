@@ -23,6 +23,7 @@
   * [Floodgate](installed-plugins/geyser/floodgate.md)
 * [TheNewEconomy](installed-plugins/theneweconomy/README.md)
   * [TNE commands](installed-plugins/theneweconomy/tne-commands.md)
+  * [QuickShop-Hikari](installed-plugins/theneweconomy/quickshop-hikari.md)
 * [Towny](installed-plugins/towny/README.md)
   * [Towny commands](installed-plugins/towny/towny-commands.md)
 * [Vane](installed-plugins/vane/README.md)
