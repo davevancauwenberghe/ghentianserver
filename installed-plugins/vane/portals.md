@@ -18,7 +18,7 @@ Portals are easy-to-use, choose a destination from the console, right-click on t
 
 <summary>Choosing a destination</summary>
 
-The console shows all available public portals to choose from, right-click on the console to open the popup
+The console shows all available public portals to choose from, right-click on the console to open the popup and navigate to **targets**
 
 <img src="../../.gitbook/assets/Portals - Choosing a destination.gif" alt="" data-size="original">
 
