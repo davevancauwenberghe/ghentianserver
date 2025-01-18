@@ -4,7 +4,7 @@ icon: person-to-portal
 
 # Portals
 
-Portals are an easy and fast option to navigate throughout the server world, they're also shown on [BlueMap](https://map.ghentianserver.net/) for quick access.
+Portals are an easy and fast option to navigate throughout the server world, they're also shown on [BlueMap](https://map.ghentianserver.net/) as 🌌 for quick access.
 
 {% hint style="info" %}
 Portal also offers a private option for secret locations, private portals won't show up on BlueMap either.
