@@ -17,9 +17,9 @@
 ## Installed plugins
 
 * [BlueMap](installed-plugins/bluemap.md)
-* [TheNewEconomy](installed-plugins/theneweconomy/README.md)
-  * [TNE commands](installed-plugins/theneweconomy/tne-commands.md)
-  * [QuickShop-Hikari](installed-plugins/theneweconomy/quickshop-hikari.md)
+* [Portals](installed-plugins/portals.md)
+* [QuickShop-Hikari](installed-plugins/quickshop-hikari.md)
+* [TheNewEconomy](installed-plugins/theneweconomy.md)
 * [Towny](installed-plugins/towny/README.md)
   * [Towny commands](installed-plugins/towny/towny-commands.md)
-* [Portals](installed-plugins/portals.md)
+* [Other](installed-plugins/other.md)
