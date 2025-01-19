@@ -4,7 +4,11 @@ icon: cloud-plus
 
 # Minecraft Bedrock Edition
 
-**Server address:** [IP address is available on request](mailto:hello@davevancauwenberghe.be)
+**Joining Ghentian Server is easy**, add the server by entering the server address and port below and you're good to go!
 
-**Server port:** 19282
+{% hint style="info" %}
+**Server address** - [IP address is available on request](mailto:hello@davevancauwenberghe.be)
+
+**Server port** - 19282
+{% endhint %}
 

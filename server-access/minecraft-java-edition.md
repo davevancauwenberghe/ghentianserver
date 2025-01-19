@@ -4,7 +4,11 @@ icon: cloud-plus
 
 # Minecraft Java Edition
 
-**Server address:** ghentianserver.net
+**Joining Ghentian Server is easy**, add the server by entering the server address below and you're good to go!
+
+{% hint style="info" %}
+**Server address** - ghentianserver.net
+{% endhint %}
 
 #### FAQ
 

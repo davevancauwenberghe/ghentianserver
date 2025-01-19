@@ -22,10 +22,10 @@ layout:
 
 ### Welcome to the official Ghentian Server Guide!
 
-This guide will bundle all information about Ghentian Server's features, commands and more!
+Ghentian Server is an evolving server for Minecraft, aiming to create a thriving community for both builders and miners.
 
-Ghentian Server is compatible with both Java and Bedrock editions, although Bedrock will lack some features due to compatibility issues through bridging Bedrock to a Java server.
+The standard game mode has been set to creative, but regular in-game SMP events are held. The personal game mode can be set to survival whenever you feel like it, too.
 
-Ghentian Server is a Paper-based server, enabling the usage of several plugins to enhance the gaming experience.
+This guide will bundle all information about Ghentian Server's features, commands and more! To help you get the most out of our server experience.
 
-**Joining the server** is easy, add the server address and port and you're good to go.
+We hope you'll enjoy your time on Ghentian Server! Join the Discord to meet our other players, enter giveaways and more!

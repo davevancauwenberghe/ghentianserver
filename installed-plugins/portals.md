@@ -7,7 +7,7 @@ icon: person-to-portal
 Portals are an easy and fast option to navigate throughout the server world, they're also shown on [BlueMap](https://map.ghentianserver.net/) as 🌌
 
 {% hint style="info" %}
-Portal also offers a private option for secret locations, private portals won't show up on BlueMap either.
+Due to plugin restrictions, Portals aren't available for Bedrock Edition
 {% endhint %}
 
 ### How to use portals
