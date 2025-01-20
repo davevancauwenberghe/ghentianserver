@@ -2,15 +2,9 @@
 
 * [🏠 Ghentian Server Guide](README.md)
 
-## Server Access
-
-* [Minecraft Java Edition](server-access/minecraft-java-edition.md)
-* [Minecraft Bedrock Edition](server-access/minecraft-bedrock-edition.md)
-
 ## Getting started
 
-* [Rulebook](getting-started/rulebook.md)
-* [Voting](getting-started/voting.md)
+* [Server access](getting-started/server-access.md)
 * [Basic hotkeys](getting-started/basic-hotkeys.md)
 * [Basic commands](getting-started/basic-commands.md)
 
@@ -20,6 +14,10 @@
 * [Portals](installed-plugins/portals.md)
 * [QuickShop-Hikari](installed-plugins/quickshop-hikari.md)
 * [TheNewEconomy](installed-plugins/theneweconomy.md)
-* [Towny](installed-plugins/towny/README.md)
-  * [Towny commands](installed-plugins/towny/towny-commands.md)
+* [Towny](installed-plugins/towny.md)
 * [Other](installed-plugins/other.md)
+
+## Nitty gritty
+
+* [Rulebook](nitty-gritty/rulebook.md)
+* [Voting](nitty-gritty/voting.md)

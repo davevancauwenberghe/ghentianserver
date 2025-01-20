@@ -1,17 +1,25 @@
 ---
-icon: cloud-plus
+icon: server
 ---
 
-# Minecraft Java Edition
+# Server access
 
 **Joining Ghentian Server is easy**, add the server by entering the server address below and you're good to go!
 
+## Minecraft Java Edition
+
 {% hint style="info" %}
-**Server address** - ghentianserver.net
+**server address** - ghentianserver.net
+{% endhint %}
+
+## Minecraft Bedrock Edition
+
+{% hint style="info" %}
+**server address** - [IP address is available on request](mailto:hello@davevancauwenberghe.be)
+
+**server port** - 19282
 {% endhint %}
 
 #### FAQ
 
 [How to add a server in Java Edition](https://ghentianserver.net/index.php/2024/12/29/adding-server-to-java-edition/)
-
-{% embed url="https://s3.davevancauwenberghe.be/visuals/tips/dvc.%20Minecraft%20-%20Ghentian%20Server%20toevoegen%204K4.mp4" %}

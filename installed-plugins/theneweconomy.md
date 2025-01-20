@@ -4,7 +4,15 @@ icon: chart-mixed-up-circle-dollar
 
 # TheNewEconomy
 
-TBA
+## Commands
+
+
+
+| Syntax | Description                |
+| ------ | -------------------------- |
+| /bal   | Check your current balance |
+|        |                            |
+|        |                            |
 
 #### FAQ
 
