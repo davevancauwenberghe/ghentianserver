@@ -11,6 +11,7 @@
 ## Installed plugins
 
 * [BlueMap](installed-plugins/bluemap.md)
+* [DiscordSRV](installed-plugins/discordsrv.md)
 * [Portals](installed-plugins/portals.md)
 * [QuickShop-Hikari](installed-plugins/quickshop-hikari.md)
 * [TheNewEconomy](installed-plugins/theneweconomy.md)
